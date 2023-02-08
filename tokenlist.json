@@ -1,0 +1,35 @@
+{
+  "name": "ShadowSwap Extended",
+  "timestamp": "2023-02-03T09:46:15.958Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://shadowswap.xyz/logo.png",
+  "keywords": [
+    "shadowswap",
+    "extended"
+  ],
+  "tokens": [
+    {
+      "name": "ShadowSwap Token",
+      "symbol": "SHDW",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/ShadowDex-Frontend/master/public/images/tokens/0xddBa66C1eBA873e26Ac0215Ca44892a07d83aDF5.png?token=GHSAT0AAAAAAB5OQCB3DHPJKIS4TJLWUNW2Y7DRMAQ"
+    },
+    {
+      "name": "WCORE",
+      "symbol": "WCORE",
+      "address": "0x191E94fa59739e188dcE837F7f6978d84727AD01",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/ShadowDex-Frontend/master/public/images/tokens/0x191E94fa59739e188dcE837F7f6978d84727AD01.png?token=GHSAT0AAAAAAB5OQCB25QCLZB7XZMMTNVMEY7DRN3A"
+    }
+    
+  ]
+}
+
+     
