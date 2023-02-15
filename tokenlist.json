@@ -1,6 +1,6 @@
 {
   "name": "ShadowSwap Extended",
-  "timestamp": "2023-02-08T09:46:15.958Z",
+  "timestamp": "2023-02-15T09:46:15.958Z",
   "version": {
     "major": 2,
     "minor": 0,
@@ -13,21 +13,30 @@
   ],
   "tokens": [
     {
-      "name": "ShadowSwap Token",
-      "symbol": "SHDW",
-      "address": "0xddBa66C1eBA873e26Ac0215Ca44892a07d83aDF5",
+      "name": "Core Inu",
+      "symbol": "CINU",
+      "address": "0x6e35ff7ac8eeb825ddb155515ef612adcd66bcbc",
       "chainId": 1116,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/shadow.png"
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/coreinu.jpg"
     },
     {
-      "name": "WCORE",
-      "symbol": "WCORE",
-      "address": "0x191E94fa59739e188dcE837F7f6978d84727AD01",
+      "name": "AKIO Inu",
+      "symbol": "AINU",
+      "address": "0xbb790d1e8a2d34e9d846bb00ea0b0380813375ee",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/AINU.jpg"
+    },
+    {
+      "name": "CoreShib",
+      "symbol": "CSHIB",
+      "address": "0x751669F3dCE1ED1c449dE44889365E40F13ce57f",
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/core.png"
     }
+    
     
   ]
 }
