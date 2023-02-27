@@ -60,7 +60,7 @@
     },
     {
       "name": "RED APPLE",
-      "symbol": " RAC",
+      "symbol": "RAC",
       "address": "0x1ab6Ded943B3A490fc2FfE577c30c329ce26747D",
       "chainId": 1116,
       "decimals": 18,
