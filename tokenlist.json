@@ -52,7 +52,7 @@
     },
     {
       "name": "OPTIMUS CORE",
-      "symbol": "Optimus",
+      "symbol": "optimus",
       "address": "0xc52c84ec6c6f5c979c39dc62cba1c585acb18507",
       "chainId": 1116,
       "decimals": 18,
