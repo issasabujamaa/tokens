@@ -3,7 +3,7 @@
   "timestamp": "2023-02-28T10:45:09Z",
   "version": {
     "major": 2,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tags": {},
@@ -73,6 +73,14 @@
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/YFI.png"
+    },
+    {
+      "name": "MoonDog",
+      "symbol": "WOOF",
+      "address": "0x5C44d3D2312AbA4d5F2406A98Bf374Bc76455092",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/moondog.png"
     }
 
     
