@@ -1,9 +1,9 @@
 {
   "name": "Shadow Extended",
-  "timestamp": "2023-01-26T11:45:09Z",
+  "timestamp": "2023-02-28T11:45:09Z",
   "version": {
     "major": 2,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "tags": {},
@@ -65,6 +65,14 @@
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/RAC.png"
+    },
+    {
+      "name": "YFI Finance",
+      "symbol": "YFI",
+      "address": "0x9c765c62ad538011c2aad815caaeec94551fbe9d",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/YFI.png"
     }
 
     
