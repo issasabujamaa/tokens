@@ -1,9 +1,9 @@
 {
   "name": "Shadow Extended",
-  "timestamp": "2023-02-28T10:45:09Z",
+  "timestamp": "2023-03-2T10:14:09Z",
   "version": {
     "major": 2,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tags": {},
@@ -81,6 +81,14 @@
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/moondog.png"
+    },
+    {
+      "name": "Hobo Universe",
+      "symbol": "HOBO",
+      "address": "0x25100C0083e8E53b1cb264E978522bd477011A0d",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/hobo.png"
     }
 
     
