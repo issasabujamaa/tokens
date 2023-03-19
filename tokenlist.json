@@ -1,6 +1,6 @@
 {
   "name": "Shadow Extended",
-  "timestamp": "2023-03-28T10:45:09Z",
+  "timestamp": "2023-03-19T13:45:09Z",
   "version": {
     "major": 2,
     "minor": 8,
@@ -89,6 +89,14 @@
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/hobo.png"
+    },
+    {
+      "name": "Pepe LaunchPad",
+      "symbol": "Pepe",
+      "address": "0x9B944a707cfDE49b7c0a9593f88b17Dc2C05DB78",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/pepe.png"
     }
 
     
