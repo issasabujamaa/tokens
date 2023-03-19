@@ -3,7 +3,7 @@
   "timestamp": "2023-03-19T10:45:09Z",
   "version": {
     "major": 2,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "tags": {},
@@ -92,7 +92,7 @@
     },
     {
       "name": "Pepe LaunchPad",
-      "symbol": "Pepe",
+      "symbol": "PEPE",
       "address": "0x9B944a707cfDE49b7c0a9593f88b17Dc2C05DB78",
       "chainId": 1116,
       "decimals": 18,
