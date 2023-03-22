@@ -1,9 +1,9 @@
 {
   "name": "Shadow Extended",
-  "timestamp": "2023-03-19T10:45:09Z",
+  "timestamp": "2023-03-22T10:45:09Z",
   "version": {
     "major": 2,
-    "minor": 9,
+    "minor": 11,
     "patch": 0
   },
   "tags": {},
@@ -97,6 +97,22 @@
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/pepe.png"
+    },
+    {
+      "name": "Verse token",
+      "symbol": "VERSE",
+      "address": "0x31fD667b36045c3f73ced53EA8Dd3357Ab1d8A21",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/verse.jpeg"
+    },
+    {
+      "name": "Cake Dao",
+      "symbol": "CDAO",
+      "address": "0x87308bc46c0329eaa977a731b08ed27690e00c5f",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/cdao.png"
     }
 
     
