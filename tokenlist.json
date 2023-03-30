@@ -99,14 +99,6 @@
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/pepe.png"
     },
     {
-      "name": "Verse Token",
-      "symbol": "VERSE",
-      "address": "0x31fD667b36045c3f73ced53EA8Dd3357Ab1d8A21",
-      "chainId": 1116,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/verse.png"
-    },
-    {
       "name": "Cake Dao",
       "symbol": "CDAO",
       "address": "0x87308bc46c0329eaa977a731b08ed27690e00c5f",
