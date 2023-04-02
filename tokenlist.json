@@ -1,6 +1,6 @@
 {
   "name": "Shadow Extended",
-  "timestamp": "2023-04-02T12:20:09Z",
+  "timestamp": "2023-04-02T11:25:09Z",
   "version": {
     "major": 2,
     "minor": 9,
@@ -89,14 +89,6 @@
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/cdao.png"
-    },
-    {
-      "name": "Young Parrot",
-      "symbol": "YPC",
-      "address": "0xDC2393dc10734BF153153038943a5deB42b209cd",
-      "chainId": 1116,
-      "decimals": 18,
-      "logoURI": "https://youngparrotnft.com/logo100.png"
     }
 
 
