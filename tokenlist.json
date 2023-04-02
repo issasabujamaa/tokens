@@ -1,9 +1,9 @@
 {
   "name": "Shadow Extended",
-  "timestamp": "2023-03-22T10:45:09Z",
+  "timestamp": "2023-04-02T12:20:09Z",
   "version": {
     "major": 2,
-    "minor": 11,
+    "minor": 9,
     "patch": 0
   },
   "tags": {},
@@ -51,22 +51,6 @@
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/coreshib.png"
     },
     {
-      "name": "OPTIMUS CORE",
-      "symbol": "optimus",
-      "address": "0xc52c84ec6c6f5c979c39dc62cba1c585acb18507",
-      "chainId": 1116,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/Optimus.png"
-    },
-    {
-      "name": "RED APPLE",
-      "symbol": "RAC",
-      "address": "0x1ab6Ded943B3A490fc2FfE577c30c329ce26747D",
-      "chainId": 1116,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/RAC.png"
-    },
-    {
       "name": "YFI Finance",
       "symbol": "YFI",
       "address": "0x9c765c62ad538011c2aad815caaeec94551fbe9d",
@@ -105,7 +89,16 @@
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/cdao.png"
+    },
+    {
+      "name": "Young Parrot",
+      "symbol": "YPC",
+      "address": "0xDC2393dc10734BF153153038943a5deB42b209cd",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://youngparrotnft.com/logo100.png"
     }
+
 
     
    
