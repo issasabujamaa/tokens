@@ -1,9 +1,9 @@
 {
   "name": "Shadow Extended",
-  "timestamp": "2023-04-02T11:25:09Z",
+  "timestamp": "2023-05-17T2:49:09Z",
   "version": {
     "major": 2,
-    "minor": 9,
+    "minor": 11,
     "patch": 0
   },
   "tags": {},
@@ -89,11 +89,23 @@
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/cdao.png"
+    },
+    {
+      "name": "Swadira Coop",
+      "symbol": "SCOOP",
+      "address": "0x085D77f703Db36bba7E02FF8fF2491BCB8B4f521",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/SCOOP.png"
+    },
+    {
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "address": "0x43583351760cea01f1461192191e278eeece7cd0",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/pepe.jpg"
     }
-
-
-    
-   
     
   ]
 }
