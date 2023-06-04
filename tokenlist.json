@@ -92,7 +92,7 @@
     },
     {
       "name": "Swadira Coop",
-      "symbol": "SCOOP",
+      "symbol": "SWD",
       "address": "0x085D77f703Db36bba7E02FF8fF2491BCB8B4f521",
       "chainId": 1116,
       "decimals": 18,
@@ -105,6 +105,15 @@
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/pepe.jpg"
+    },
+
+    {
+      "name": "PepeTrump",
+      "symbol": "PepeTrump",
+      "address": "0xf3f1298bae77eaf5c9fba01449f4c104a6cb795e",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/PepeTrump.jpg"
     }
     
   ]
