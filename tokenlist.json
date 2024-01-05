@@ -1,6 +1,6 @@
 {
   "name": "Shadow Extended",
-  "timestamp": "2023-05-17T11:25:09Z",
+  "timestamp": "2024-01-05T11:25:09Z",
   "version": {
     "major": 2,
     "minor": 11,
@@ -83,14 +83,6 @@
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/pepe.png"
     },
     {
-      "name": "Cake Dao",
-      "symbol": "CDAO",
-      "address": "0x87308bc46c0329eaa977a731b08ed27690e00c5f",
-      "chainId": 1116,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/cdao.png"
-    },
-    {
       "name": "Swadira Coop",
       "symbol": "SWD",
       "address": "0x085D77f703Db36bba7E02FF8fF2491BCB8B4f521",
@@ -106,7 +98,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/pepe.jpg"
     },
-
     {
       "name": "PepeTrump",
       "symbol": "PepeTrump",
@@ -114,6 +105,14 @@
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/PepeTrump.jpg"
+    },
+    {
+      "name": "cDAO",
+      "symbol": "cDAO",
+      "address": "0x42077e348702f13Ea80CE6a6A38b8b60fbb37B5d",
+      "chainId": 1116,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/dao_96.png"
     }
     
   ]
