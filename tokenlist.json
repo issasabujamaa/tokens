@@ -99,9 +99,9 @@
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/pepe.jpg"
     },
     {
-      "name": "PepeTrump",
-      "symbol": "PepeTrump",
-      "address": "0xf3f1298bae77eaf5c9fba01449f4c104a6cb795e",
+      "name": "StarLink",
+      "symbol": "StarLink",
+      "address": "0x134aa6deff361e09befb635cf1c6ed21af96715e",
       "chainId": 1116,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SVerseLab/images/master/PepeTrump.jpg"
